@@ -1,0 +1,7 @@
+.photo {
+  position: fixed;
+  display: flex;
+  margin: 1rem;
+  top: 5rem;
+  left: 1;
+}
